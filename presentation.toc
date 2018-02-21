@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Quanti anni devo studiare?}{2}{0}{1}
+\beamer@sectionintoc {2}{Come faccio a laurearmi?}{4}{0}{2}
+\beamer@sectionintoc {3}{Cosa studio a Ingegneria dell'Informazione?}{7}{0}{3}
+\beamer@sectionintoc {4}{E dopo la triennale?}{13}{0}{4}
+\beamer@sectionintoc {5}{Quali sono le differenze tra triennale e magistrale?}{21}{0}{5}
+\beamer@sectionintoc {6}{E se voglio studiare all'estero?}{24}{0}{6}
