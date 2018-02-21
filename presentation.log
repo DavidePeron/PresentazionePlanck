@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.28)  21 FEB 2018 20:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.28)  21 FEB 2018 21:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1380,26 +1380,26 @@ Package pdftex.def Info: percorso.png used on input line 26.
 <big_data.png, id=125, 451.6875pt x 387.4475pt>
 File: big_data.png Graphic file (type png)
  <use big_data.png>
-Package pdftex.def Info: big_data.png used on input line 135.
+Package pdftex.def Info: big_data.png used on input line 136.
 (pdftex.def)             Requested size: 73.74918pt x 63.25803pt.
 
 <robotica_inf.png, id=126, 505.89pt x 505.89pt>
 File: robotica_inf.png Graphic file (type png)
  <use robotica_inf.png>
-Package pdftex.def Info: robotica_inf.png used on input line 135.
+Package pdftex.def Info: robotica_inf.png used on input line 136.
 (pdftex.def)             Requested size: 73.74918pt x 73.74971pt.
 
 <network.png, id=127, 940.51375pt x 441.65pt>
 File: network.png Graphic file (type png)
  <use network.png>
-Package pdftex.def Info: network.png used on input line 135.
+Package pdftex.def Info: network.png used on input line 136.
 (pdftex.def)             Requested size: 98.33162pt x 46.16907pt.
 
 <sistemi-operativi.png, id=128, 803.0pt x 284.06125pt>
 File: sistemi-operativi.png Graphic file (type png)
 
 <use sistemi-operativi.png>
-Package pdftex.def Info: sistemi-operativi.png used on input line 135.
+Package pdftex.def Info: sistemi-operativi.png used on input line 136.
 (pdftex.def)             Requested size: 122.91406pt x 43.47856pt.
  [15
 
@@ -1408,26 +1408,26 @@ Package pdftex.def Info: sistemi-operativi.png used on input line 135.
 <oled-lg.jpeg, id=138, 983.675pt x 421.575pt>
 File: oled-lg.jpeg Graphic file (type jpg)
  <use oled-lg.jpeg>
-Package pdftex.def Info: oled-lg.jpeg used on input line 161.
+Package pdftex.def Info: oled-lg.jpeg used on input line 162.
 (pdftex.def)             Requested size: 122.91406pt x 52.67744pt.
 
 <smart_grid.jpeg, id=139, 707.64375pt x 293.59688pt>
 File: smart_grid.jpeg Graphic file (type jpg)
  <use smart_grid.jpeg>
-Package pdftex.def Info: smart_grid.jpeg used on input line 161.
+Package pdftex.def Info: smart_grid.jpeg used on input line 162.
 (pdftex.def)             Requested size: 122.91406pt x 50.99493pt.
 
 <prog_integr.jpeg, id=140, 401.5pt x 283.0575pt>
 File: prog_integr.jpeg Graphic file (type jpg)
  <use prog_integr.jpeg>
-Package pdftex.def Info: prog_integr.jpeg used on input line 161.
+Package pdftex.def Info: prog_integr.jpeg used on input line 162.
 (pdftex.def)             Requested size: 98.33162pt x 69.32161pt.
 
 <quantum_electronics.jpeg, id=141, 803.0pt x 401.5pt>
 File: quantum_electronics.jpeg Graphic file (type jpg)
 
 <use quantum_electronics.jpeg>
-Package pdftex.def Info: quantum_electronics.jpeg used on input line 161.
+Package pdftex.def Info: quantum_electronics.jpeg used on input line 162.
 (pdftex.def)             Requested size: 122.91406pt x 61.4538pt.
  [16
 
@@ -1436,25 +1436,25 @@ cs.jpeg>]
 <sistemi.png, id=147, 564.1075pt x 228.855pt>
 File: sistemi.png Graphic file (type png)
  <use sistemi.png>
-Package pdftex.def Info: sistemi.png used on input line 187.
+Package pdftex.def Info: sistemi.png used on input line 188.
 (pdftex.def)             Requested size: 122.91406pt x 49.86285pt.
 
 <robotica_aut.png, id=148, 1284.8pt x 856.19875pt>
 File: robotica_aut.png Graphic file (type png)
  <use robotica_aut.png>
-Package pdftex.def Info: robotica_aut.png used on input line 187.
+Package pdftex.def Info: robotica_aut.png used on input line 188.
 (pdftex.def)             Requested size: 122.91406pt x 81.90149pt.
 
 <industriale.jpeg, id=149, 289.08pt x 192.9609pt>
 File: industriale.jpeg Graphic file (type jpg)
  <use industriale.jpeg>
-Package pdftex.def Info: industriale.jpeg used on input line 187.
+Package pdftex.def Info: industriale.jpeg used on input line 188.
 (pdftex.def)             Requested size: 98.33162pt x 65.63527pt.
 
 <large-icon.png, id=150, 461.725pt x 259.97125pt>
 File: large-icon.png Graphic file (type png)
  <use large-icon.png>
-Package pdftex.def Info: large-icon.png used on input line 187.
+Package pdftex.def Info: large-icon.png used on input line 188.
 (pdftex.def)             Requested size: 122.91406pt x 69.20543pt.
  [17
 
@@ -1462,28 +1462,28 @@ Package pdftex.def Info: large-icon.png used on input line 187.
 <Biomeccanica.png, id=159, 552.0625pt x 481.8pt>
 File: Biomeccanica.png Graphic file (type png)
  <use Biomeccanica.png>
-Package pdftex.def Info: Biomeccanica.png used on input line 213.
+Package pdftex.def Info: Biomeccanica.png used on input line 214.
 (pdftex.def)             Requested size: 86.03946pt x 75.08257pt.
 
 <neuroimaging.jpeg, id=160, 1027.84pt x 578.16pt>
 File: neuroimaging.jpeg Graphic file (type jpg)
  <use neuroimaging.jpeg>
-Package pdftex.def Info: neuroimaging.jpeg used on input line 213.
+Package pdftex.def Info: neuroimaging.jpeg used on input line 214.
 (pdftex.def)             Requested size: 122.91406pt x 69.138pt.
 
 <petmachine.png, id=161, 351.3125pt x 234.8775pt>
 File: petmachine.png Graphic file (type png)
  <use petmachine.png>
-Package pdftex.def Info: petmachine.png used on input line 213.
+Package pdftex.def Info: petmachine.png used on input line 214.
 (pdftex.def)             Requested size: 122.91406pt x 82.17609pt.
 
 <sistema_bio.png, id=162, 771.63281pt x 467.49657pt>
 File: sistema_bio.png Graphic file (type png)
  <use sistema_bio.png>
-Package pdftex.def Info: sistema_bio.png used on input line 213.
+Package pdftex.def Info: sistema_bio.png used on input line 214.
 (pdftex.def)             Requested size: 122.91406pt x 74.4657pt.
 
-Overfull \vbox (17.92255pt too high) detected at line 213
+Overfull \vbox (17.92255pt too high) detected at line 214
  []
 
 [18
@@ -1493,23 +1493,23 @@ ng>] <trasmissione.png, id=171, 2810.5pt x 1405.25pt>
 File: trasmissione.png Graphic file (type png)
 
 <use trasmissione.png>
-Package pdftex.def Info: trasmissione.png used on input line 239.
+Package pdftex.def Info: trasmissione.png used on input line 240.
 (pdftex.def)             Requested size: 73.74918pt x 36.8594pt.
  <Grafo.png, id=172, 594.22pt x 404.51125pt>
 File: Grafo.png Graphic file (type png)
 
 <use Grafo.png>
-Package pdftex.def Info: Grafo.png used on input line 239.
+Package pdftex.def Info: Grafo.png used on input line 240.
 (pdftex.def)             Requested size: 122.91406pt x 83.6722pt.
  <signals.jpeg, id=173, 301.125pt x 188.705pt>
 File: signals.jpeg Graphic file (type jpg)
 
 <use signals.jpeg>
-Package pdftex.def Info: signals.jpeg used on input line 239.
+Package pdftex.def Info: signals.jpeg used on input line 240.
 (pdftex.def)             Requested size: 86.03946pt x 53.91681pt.
 File: big_data.png Graphic file (type png)
  <use big_data.png>
-Package pdftex.def Info: big_data.png used on input line 239.
+Package pdftex.def Info: big_data.png used on input line 240.
 (pdftex.def)             Requested size: 73.74918pt x 63.25803pt.
  [19
 
@@ -1523,7 +1523,7 @@ Package pdftex.def Info: big_data.png used on input line 239.
 <articolo.png, id=200, 818.05624pt x 475.7775pt>
 File: articolo.png Graphic file (type png)
  <use articolo.png>
-Package pdftex.def Info: articolo.png used on input line 267.
+Package pdftex.def Info: articolo.png used on input line 268.
 (pdftex.def)             Requested size: 284.52756pt x 165.4792pt.
  [23
 
@@ -1533,7 +1533,7 @@ Package pdftex.def Info: articolo.png used on input line 267.
 File: Erasmus.jpg Graphic file (type jpg)
 
 <use Erasmus.jpg>
-Package pdftex.def Info: Erasmus.jpg used on input line 276.
+Package pdftex.def Info: Erasmus.jpg used on input line 277.
 (pdftex.def)             Requested size: 284.52756pt x 163.41821pt.
  [25
 
@@ -1547,11 +1547,11 @@ Package pdftex.def Info: Erasmus.jpg used on input line 276.
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 278.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 278.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 279.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 279.
  (./presentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 278.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 278.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 279.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 279.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: 56B5998A1D384D0E951D92734B357B9C;407.
 
@@ -1559,7 +1559,7 @@ Package rerunfilecheck Info: File `presentation.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 278.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 279.
  ) 
 Here is how much of TeX's memory you used:
  20792 strings out of 493029
@@ -1574,7 +1574,7 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on presentation.pdf (25 pages, 5121457 bytes).
+Output written on presentation.pdf (25 pages, 5121486 bytes).
 PDF statistics:
  252 PDF objects out of 1000 (max. 8388607)
  175 compressed objects within 2 object streams
